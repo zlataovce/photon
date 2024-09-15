@@ -1,3 +1,3 @@
-module github.com/cephxdev/photon
+module github.com/zlataovce/photon
 
 go 1.20
